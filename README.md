@@ -4,6 +4,7 @@ The Semantic &amp; Syntactic Datasets of Arian Verheij's Hebrew Verb Study
 
 ## Original Readme Description
 
+```
 begin of file verbdata.doc -- information on the file verbdata.bbb
 A.J.C. Verheij       <arian@th.vu.nl>                February 1999
 ===============================================================
@@ -154,5 +155,4 @@ tok=119 	TOKEN FREQUENCY
 	lexeme occurs in the Hebrew Bible.
 
 end of file verbdata.doc -- information on the file verbdata.bbb
-
-
+```
