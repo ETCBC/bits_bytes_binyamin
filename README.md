@@ -1,6 +1,15 @@
 # Bits, Bytes, and Binyanim
 
-The Semantic &amp; Syntactic Datasets of Arian Verheij's Hebrew Verb Study
+This repository contains the semantic and syntactic verb lexeme from Arian Verheij's 1999
+study on the Hebrew verb stems ("binyanim"): Verheij, A.J.C. *Bits, Bytes, and Binyanim.* Leuven: Peeters, 1999.
+
+The intention of this repository is to make the data more easily accessible.
+Part of that goal is to convert these features into Text-Fabric annotations.
+
+## Source
+
+The data has been pulled from its original source via File Transfer Protocol (FTP) 
+from ftp://ftp.th.vu.nl/pub/arian 
 
 ## Original Readme Description
 
